@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/SudheeshTD">
+  <a href="https://www.linkedin.com/in/sudheeshtd/">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*X7Q84nkQN1DiFXC-rQLt9g.gif" alt="MasterHead">
   </a>
 </p>
