@@ -17,7 +17,7 @@
 
 - 🔭 What I am Learning [MERN AI Chatbot](https://github.com/SudheeshTD/AI-Chatbot-MERN)
 
-- 📫 Reach Me @ **sthuralkalmakkidharm@hawk.iit.edu** or **sudheeshtgowda@gmail.com**
+- 📫 Reach Me @ **sudheeshtgowda@gmail.com** or **sthuralkalmakkidharm@hawk.iit.edu**
 
 <br><br> <!-- Adds two line breaks -->
 
